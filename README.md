@@ -12,3 +12,6 @@ Aplicativos interativos: Aprimoramento da experiência do usuário fornecendo fe
 Pesquisa de mercado: Analise das reações dos clientes a produtos ou anúncios.
 Sistemas de segurança: Integração a sistemas de vigilância para monitorar indivíduos e identificar comportamentos suspeitos.
 Saúde: Monitoramento dos estados emocionais dos pacientes em ambientes terapêuticos.
+
+https://github.com/WalterJonas/Deteccao-de-idade-genero-e-emocao-usando-OpenCV-e-DeepFace/assets/74218624/15dd2a5b-a10c-46b6-b96e-add4f3e80162
+
